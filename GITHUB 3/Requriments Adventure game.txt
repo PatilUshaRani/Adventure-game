@@ -1,0 +1,3 @@
+Requriments
+# No external libraries required
+# Only standard Python 3 libraries are used
